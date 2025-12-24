@@ -1,0 +1,4 @@
+Requirements for the task:
+installation of python
+using jupyter lab for creating python file 
+using jupyter notebook for testing the python file code 
